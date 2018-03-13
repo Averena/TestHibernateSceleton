@@ -11,20 +11,9 @@ import org.itstep.util.HibernateUtil;
  */
 public class App {
  public static void main(String[] args) {
-  Account account = new Account("ignatenko207", "123456", "Alex", "Ignatenko", new Date(82, 7, 22).getTime());
+ /* Account account = new Account("ignatenko207", "123456", "Alex", "Ignatenko", new Date(82, 7, 22).getTime());
 
-  HibernateUtil hUtil = new HibernateUtil();
-  
-  Session session = hUtil.getSessionFactory().openSession();
-
-  session.getTransaction().begin();
-
-  session.save(account);
-
-  session.getTransaction().commit();
-
-  session.close();
-
+  System.out.println("Transactions compleed!");*/
 
  }
 }
