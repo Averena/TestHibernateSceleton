@@ -18,7 +18,7 @@ public class Good {
  @Column(name = "asin", length = 20)
  private String asin;
  
- @Column(name = "name", length = 300)
+ @Column(name = "good_name", length = 300)
  private String name;
  
  @Column(name = "shop_url", length = 500)

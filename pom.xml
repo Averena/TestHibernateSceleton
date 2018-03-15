@@ -52,5 +52,13 @@
        <version>4.12</version>
        <scope>test</scope>
     </dependency>
-  </dependencies>
+    
+     <!-- BUILD -->
+     
+      <build>
+    <outputDirectory>${project.buid.directory}/{my_test_project}</outputDirectory>
+    <finalName>{project.artifactId}-{}</finalName>
+     </build>
+     
+  </dependencies>           
 </project>
