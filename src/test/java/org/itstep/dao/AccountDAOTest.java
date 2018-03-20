@@ -1,4 +1,4 @@
-package org.itstep.dao;
+/*package org.itstep.dao;
 
 import static org.junit.Assert.*;
 
@@ -45,4 +45,4 @@ public class AccountDAOTest {
 		accountDAO.delete(account);
 	}
 
-}
+}*/

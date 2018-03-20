@@ -1,4 +1,4 @@
-package org.itstep.dao;
+/*package org.itstep.dao;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -48,3 +48,4 @@ public class GoodDAOTest {
 	 }
 
 	}
+*/
